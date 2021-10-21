@@ -7,9 +7,9 @@ cffi>=1.14.2
 cryptography>=3.4.7
 
 Flask-Assets
-Flask-Babel
+Flask-Babel>=1.0.0
 Flask-SQLAlchemy
-Flask-WTF
+Flask-WTF>=0.15.1
 Flask>0.12.2
 Jinja2>=2.11.3
 jsmin
@@ -26,4 +26,4 @@ setuptools>=56.0.0
 sh
 SQLAlchemy>=1.3.0
 typing;python_version<"3.8"
-Werkzeug>=0.15.3
+Werkzeug>=2.0.2
