@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from typing import Union
+rom typing import Union
 
 import werkzeug
 from flask import (Blueprint, render_template, request, g, redirect, url_for,
